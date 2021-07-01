@@ -57,7 +57,7 @@ const config = {
     title: 'Engineering Portal | TakeMe',
     description: 'Documentation built with mdx.',
     ogImage: null,
-    docsLocation: 'https://github.com/takeme-pay/takeme-pay.github.io/gatsby-gitbook-boilerplate/tree/master/content',
+    docsLocation: 'https://github.com/takeme-pay/takeme-pay.github.io/tree/master/content',
     favicon: 'https://www.takeme.com/wp-content/themes/takeme/img/favicon.png',
   },
   pwa: {
