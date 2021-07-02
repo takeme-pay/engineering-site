@@ -570,6 +570,7 @@ export const baseStyles = css`
   /* tables.css */
   table {
     padding: 0;
+    border-collapse: collapse;
   }
 
   table tr {
@@ -594,7 +595,7 @@ export const baseStyles = css`
     border: 1px solid #cccccc;
     text-align: left;
     margin: 0;
-    padding: 6px 13px;
+    padding: 15px;
   }
 
   table tr th :first-child,
