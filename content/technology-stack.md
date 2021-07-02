@@ -4,29 +4,26 @@ metaTitle: "Technology Stack"
 metaDescription: "The technology stack at TakeMe"
 ---
 
-Some introduction text. Lists out all the headings from h1 to h6. Easy to customise.
+Below is the Technology Stack for TakeMe Engineering team.
 
-# Heading H1
-Heading 1 text
-
-## Heading H2
-Heading 2 text
-
-### Heading H3
-Heading 3 text
-
-#### Heading H4
-Heading 4 text
-
-##### Heading H5
-Heading 5 text
-
-###### Heading H6
-Heading 6 text
-
-## Lists
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+| Category     | Technology Stack |
+| :---         | :---             |
+| Front-end | HTML, CSS, JavaScript, TypeScript, AngularJS, React.js |
+| iOS          | Swift, Objective-C |
+| Back-end      | Java, Spring Boot, Python, Node.js |
+| Infrastructure | GCP, AWS |
+| Middleware     | Amazon SQS, nginx, Elasticserch, Redis |
+| Database       | MySQL | 
+| ORM            | jOOQ |
+| Storage        | S3 |
+| Monitoring     | Datadog, Sentry, PagerDuty |
+| Query Service  | Amazon Athena |
+| Data Analytics | BigQuery |
+| Environment Setup | Docker, AWS CDK |
+| Container Registry | Amazon ECR, Docker Hub |
+| Container Orchestration | Amazon ECS |
+| CI                | GitHub Actions |
+| CDN               | Amazon CloudFront |
+| Source Code Management | GitHub |
+| DNS Service | Amazon Route 53 |
+| Email Service | Mailgun, Amazon SES |
