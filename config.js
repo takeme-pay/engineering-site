@@ -42,10 +42,6 @@ const config = {
       '/technology-stack',
       '/open-source',
       '/blog',
-      '/codeblock',
-    ],
-    collapsedNav: [
-      '/codeblock',
     ],
     links: [{ text: 'TakeMe', link: 'https://www.takeme.com/' }],
     frontline: false,
